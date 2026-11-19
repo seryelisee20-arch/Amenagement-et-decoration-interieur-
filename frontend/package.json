@@ -1,0 +1,23 @@
+{
+  "name": "orca-deco-ci-frontend",
+  "version": "1.0.0",
+  "description": "Front-end d'intégration Mobile Money (Wave, Orange Money, MTN MoMo, Moov Money) pour ORCA Déco CI - L3 Génie Logiciel IIT",
+  "main": "index.html",
+  "scripts": {
+    "start": "python server.py",
+    "serve": "npx serve .",
+    "dev": "python server.py"
+  },
+  "keywords": [
+    "orca-deco",
+    "mobile-money",
+    "wave",
+    "orange-money",
+    "mtn-momo",
+    "moov-money",
+    "cote-divoire",
+    "abidjan"
+  ],
+  "author": "Christ-elisee Sery",
+  "license": "MIT"
+}

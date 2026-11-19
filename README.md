@@ -4,18 +4,18 @@
 
 Projet réalisé dans le cadre du module **Atelier du logiciel** (Licence 3 Génie logiciel).
 
-- **Étudiant** : Christ (nom de famille à compléter)
-- **Enseignant** : à compléter
-- **Établissement et année** : à compléter
+- **Étudiant** : Christ-elisee Sery
+- **Enseignant** : Sedrick Kouagni
+- **Établissement et année** : à  IIT 2026-2027
 - **Entreprise étudiée** : ORCA Déco CI
 
 ## Présentation de l'entreprise
 
 ORCA Déco CI est une entreprise spécialisée dans la décoration et l'aménagement intérieur. Elle accompagne ses clients dans le choix de produits et de solutions destinés à aménager, équiper et embellir leurs espaces de vie ou de travail. Selon les besoins, les échanges avec les clients portent sur la présentation des produits, les commandes, la facturation, la livraison et le suivi après-vente.
 
-- **Localisation** : à confirmer
-- **Responsable** : à confirmer
-- **Effectif et organisation** : à confirmer
+- **Localisation** : Marcory
+- **Responsable** : Mr Kore
+- **Effectif et organisation** : Orca DECO
 - **Logiciel de gestion actuel** : à confirmer
 
 > **Note :** ces informations sont rédigées à partir des éléments disponibles pour le projet académique. L'historique, le statut juridique, les coordonnées, le catalogue complet et l'organisation interne restent à confirmer auprès d'ORCA Déco CI.
